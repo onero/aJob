@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">aJob</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="find_beacon">Find me a beacon!</string>
+    <string name="show_beacon">Show Beacon!</string>
+    <string name="perhaps_beacon">Perhaps we shall see a beacon today!</string>
+    <string name="aJob_Image">aJob Image</string>
+    <string name="UUID">Proximity UUID: DF7E1C79-43E9-44FF-886F-1D1F7DA6997A</string>
+</resources>
